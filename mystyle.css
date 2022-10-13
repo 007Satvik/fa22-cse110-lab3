@@ -1,3 +1,7 @@
 body{
   background-color: green;
 }
+.contents{
+  text_align: center;
+  color: blue;
+}
