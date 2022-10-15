@@ -6,6 +6,12 @@ body{
   color: blue;
   font-size: 0.5in;
 }
+
+.contents:hover{
+  color: gold;
+  background-color: yellow;
+}
+
 #Meeting{
   color: #FFF0;
   decoration: underline red;
@@ -20,6 +26,9 @@ h3{
   font-size: 0.5cm;
   line-height: 0.8cm;
  
+}
+h3:active{
+  background-color: orange;
 }
 #prev{
   font-size: 1ch;
