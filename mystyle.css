@@ -41,3 +41,6 @@ h3{
    border-width: 1px;
    border-radius: 25% 10%;
 }
+a[href^="#"]{
+  backround-color: gold;
+}
