@@ -5,3 +5,7 @@ body{
   text_align: center;
   color: blue;
 }
+#Meeting{
+  color: #FFF0;
+  decoration: underline red;
+}
