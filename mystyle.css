@@ -4,14 +4,20 @@ body{
 .contents{
   text_align: center;
   color: blue;
+  font-size: 0.5in;
 }
 #Meeting{
   color: #FFF0;
   decoration: underline red;
+  font-size: 1ex;
+  line-height: 3em;
 }
 * {
   font-family: 'Fuzzy Bubbles', cursive;
 }
 h3{
   color: rgb(120, 50, 0);
+  font-size: 0.5cm;
+  line-height: 0.8cm;
+ 
 }
