@@ -9,3 +9,6 @@ body{
   color: #FFF0;
   decoration: underline red;
 }
+* {
+  font-family: 'Fuzzy Bubbles', cursive;
+}
