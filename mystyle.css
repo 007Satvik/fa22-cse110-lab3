@@ -90,3 +90,6 @@ a[href^="#"]{
 .descendant p{
   baskground-color: white;
 }
+#child > p{
+  backround-color: blue;
+}
