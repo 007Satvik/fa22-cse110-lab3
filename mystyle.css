@@ -81,3 +81,9 @@ a[href^="#"]{
   grid-row-gap: 15px;
   grid-column-gap: 35px;
 }
+@media screen and (max-width:650px) {
+        body {
+            text-align: center;
+            background-color: red;
+        }
+    }
