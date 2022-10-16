@@ -62,3 +62,12 @@ a[href^="#"]{
   max-width: initial;
   max-width: initial;
 }
+#block1{
+  display: block;
+  position: static;
+}
+#block2{
+  display: inline-block;
+  position: fixed;
+}
+  
