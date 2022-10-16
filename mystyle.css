@@ -76,4 +76,8 @@ a[href^="#"]{
   align-items: center;
   justify-content: center;
 }
-
+.grid{
+  dispay: grid;
+  grid-row-gap: 15px;
+  grid-column-gap: 35px;
+}
