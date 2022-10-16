@@ -93,3 +93,6 @@ a[href^="#"]{
 #child > p{
   backround-color: blue;
 }
+.adjacent + p_adj{
+  color: black;
+}
