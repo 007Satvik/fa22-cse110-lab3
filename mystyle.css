@@ -2,7 +2,7 @@ body{
   background-color: green;
 }
 .contents{
-  text_align: center;
+  text-align: center;
   color: blue;
   font-size: 0.5in;
 }
@@ -13,10 +13,10 @@ body{
 }
 
 #Meeting{
-  color: #FFFF;
-  decoration: underline red;
-  font-size: 10ex;
-  line-height: 10em;
+  color: 0xFFFFFFFF;
+  text-decoration: underline;
+  font-size: 1 ex;
+  line-height: 10 em;
 }
 * {
   font-family: 'Fuzzy Bubbles', cursive;
@@ -51,7 +51,7 @@ h3:active{
    border-radius: 25% 10%;
 }
 a[href^="#"]{
-  backround-color: gold;
+  background-color: gold;
 }
 #p2{
   margin: 1 1 0.5 0.5;
@@ -88,10 +88,10 @@ a[href^="#"]{
         }
 }
 .descendant p{
-  baskground-color: white;
+  background-color: white;
 }
 #child > p{
-  backround-color: blue;
+  background-color: blue;
 }
 .adjacent + p_adj{
   color: black;
