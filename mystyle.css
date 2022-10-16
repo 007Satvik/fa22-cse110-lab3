@@ -86,4 +86,7 @@ a[href^="#"]{
             text-align: center;
             background-color: red;
         }
-    }
+}
+.descendant p{
+  baskground-color: white;
+}
